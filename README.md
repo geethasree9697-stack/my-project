@@ -35,10 +35,6 @@ PaySim dataset (simulated financial transactions)
 4. Open browser and go to:
    http://127.0.0.1:5000/
 
-## 📷 Output
-
-(Add screenshots here)
 
 ## 👩‍💻 Author
-
-Your Name
+N.Geetha Sree
